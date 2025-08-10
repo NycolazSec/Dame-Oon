@@ -42,7 +42,7 @@ def print_ascii():
      | |_| / ___ \| |  | | |___  | |_| | |_| | |\  |
      |____/_/   \_\_|  |_|_____|  \___/ \___/|_| \_|
                                                    
-        Anti-AFK Roblox Script - By N
+        Anti-AFK Roblox Script - By NycolazSec
 """
     print(Fore.GREEN + art + Style.RESET_ALL)
 
